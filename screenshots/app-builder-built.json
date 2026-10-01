@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Railbridge",
+      "hasCanvas": false,
+      "bodyTextLen": 986,
+      "bodyTextHash": "1dc8436d6de9fdcbe3b9d8e84da8d7bd2f7987932a556d4a129a7c3e9fd2db58",
+      "bodyTextPrefix": "Railbridge Workbench Wiring Protocol Install Native USB daemon f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Railbridge",
+      "hasCanvas": false,
+      "bodyTextLen": 892,
+      "bodyTextHash": "38b6ee0b2f120405887675650190ed2a454b2e15fd3aca4350a847a63cc4389b",
+      "bodyTextPrefix": "Railbridge WIRED ADAPTER Switch 2 pads, Switch 1 console. Railbr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

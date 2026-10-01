@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Railbridge",
+      "hasCanvas": false,
+      "bodyTextLen": 862,
+      "bodyTextHash": "909cfc8c4c946a1598d315dd4d7e74ea878ff9f1407f4cba704606b4aecd8928",
+      "bodyTextPrefix": "Railbridge Workbench Wiring Protocol Install Native USB daemon f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Railbridge",
+      "hasCanvas": false,
+      "bodyTextLen": 1253,
+      "bodyTextHash": "e0f22968b0f08cae9b34748b1dfa9c77d7244786e55af3184b57701697bf7f57",
+      "bodyTextPrefix": "Railbridge WIRED ADAPTER Any pad. One cable. Switch 1. Switch 2,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
